@@ -1,0 +1,9 @@
+# Ignore dataset files
+chest_xray/
+__MACOSX/
+*.zip
+
+# System & cache files
+.DS_Store
+.ipynb_checkpoints/
+

@@ -1,0 +1,4 @@
+Model,Method,Recall (Test),Precision (Test),Accuracy (Test),Size,Notes,Total Parameters,File Size (MB),Avg. Inference Time (ms)
+MobileNetV2,Feature Extraction,92.05%,84.47%,84.46%,9.0 MB,"Stabil, 17x lebih ringan, performa solid.",2259265,8.978591918945312,22.639370499513088
+EfficientNetB0,Feature Extraction / Weighted,,,,15.4 MB,"Gagal total, tidak stabil, terjebak di local minima.",4050852,15.4,N/A (Failed)
+ResNet50-FT,Fine-Tuning,95.13%,83.94%,85.58%,159 MB,"Performa tertinggi, butuh metode canggih, ukuran sangat besar.",23589761,158.7892780303955,21.774920897606094
