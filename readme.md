@@ -56,4 +56,4 @@ Dataset yang digunakan adalah [**Chest X-Ray Images (Pneumonia)**](https://www.k
 
 ## Langkah Selanjutnya
 
-Model yang dilatih dalam penelitian ini digunakan untuk membangun **Aplikasi Web PANDA**, alat bantu diagnostik *full-stack*. Lihat repositori terpisah: `[Link ke Repositori PANDA-WebApp Anda - TAMBAHKAN NANTI]`
+Model yang dilatih dalam penelitian ini digunakan untuk membangun **Aplikasi Web PANDA**, alat bantu diagnostik *full-stack*. Lihat repositori terpisah: `https://github.com/billyaf/pneumonia-webapp`
